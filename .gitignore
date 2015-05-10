@@ -9,6 +9,8 @@ Release*/
 *.pyc
 .svn/
  
+#images
+*.jpg
  
 #XCode
 *.pbxuser
